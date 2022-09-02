@@ -1,6 +1,6 @@
-# Msc_CA2
-Agricultural data analysis using python.
+# Fertiliser data analysis using python.
 
+MSC Sem1 CA2
 
 Link to streamlit dashboard
 https://share.streamlit.io/ritra/msc_ca2/notebooks/dashboard.py
